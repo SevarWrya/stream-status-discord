@@ -19,4 +19,4 @@ async def on_connect():
 
 
 alive.alive()
-client.run(os.getenv("MTA4NTYxOTAzNDM2NTYzNjY5OQ.G70Shu.ZWUbtRIaKcMmpXYNOCRsGJtMSipvUT6F_kcWww"), bot=True)
+client.run(os.getenv("MTA4NTYxOTAzNDM2NTYzNjY5OQ.G70Shu.ZWUbtRIaKcMmpXYNOCRsGJtMSipvUT6F_kcWww"), bot=False)
